@@ -1,24 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <main className="App">
+        <h1>grid study</h1>
+
+        <section className='container-grid'>
+          <div className="tasha-tracie image-card"></div>
+          <div className="baco-exu-blues image-card"></div>
+          <div className="mc-tha image-card"></div>
+          <div className="gloria-groove image-card"></div>
+          <div className="mateus-aleluia image-card"></div>
+          <div className="baiana-system image-card"></div>
+          <div className="racionais image-card"></div>
+          <div className="charlie-brown-jr image-card"></div>
+          <div className="pitty image-card"></div>
+          <div className="o-terno image-card"></div>
+          <div className="cpm22 image-card"></div>
+          <div className="pabllo-vittar image-card"></div>
+          <div className="juliano-holanda image-card"></div>
+          <div className="nelson-gonçalves image-card"></div>
+          <div className="iza image-card"></div>
+          <div className="tim-maia image-card"></div>
+        </section>
+    </main>
   );
 }
 
