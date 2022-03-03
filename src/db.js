@@ -3,6 +3,7 @@ export const data = [
         "name": "Tasha & Tracie",
         "spotify_link": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT?si=BngPzWshT1irP5QNfuIojw",
         "container-name": "tasha-tracie",
+        "image": "images/tasha-tracie.webp"
     },
 
     {
