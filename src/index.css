@@ -1,5 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Smooch+Sans:wght@300;513&display=swap');
+
+
+/* 
+TEXTO: font-family: 'Josefin Sans', sans-serif;
+TITULO: font-family: 'Smooch Sans', sans-serif; 
+*/
+
 *{
     margin: 0;
     padding: 0;
+    border: 0;
     box-sizing: border-box;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    overflow-x: hidden;
 }
