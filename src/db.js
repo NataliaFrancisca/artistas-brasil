@@ -1,4 +1,4 @@
-export const data_songs = [
+export const data = [
     {
         "name": "Tasha & Tracie",
         "spotify_link": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT?si=BngPzWshT1irP5QNfuIojw",
@@ -80,7 +80,7 @@ export const data_songs = [
     {
         "name": "Nelson Gonçalves",
         "spotify_link": "https://open.spotify.com/artist/3wg2dojocgkzfZFx66oHSt?si=BLuK2yNLTFqPsyvJe8agiQ",
-        "container-name": "nelson-gonçalves",
+        "container-name": "nelson-goncalves",
     },
 
     {
