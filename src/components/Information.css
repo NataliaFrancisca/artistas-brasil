@@ -1,16 +1,30 @@
+iframe{
+    border-radius: 12px;
+}
+
+hr{
+    height: 5px;
+    width: 100%;
+    background-color: rgb(0, 131, 98);
+    border-radius: 3px;
+    margin-top: 1rem;
+}
+
 .container-artist{
-    height: auto;
-    width: 100vw;
-    background-color: blanchedalmond;
+    background-color: yellow;
+    height: 100vh;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .title-artist{
     font-family: 'Smooch Sans', sans-serif; 
     font-size: 3.5em;
     letter-spacing: 5px;
-    margin-left: 1rem;
     text-align: start;
-    height: 10%;
 }
 
 .title-artist:after{
@@ -23,24 +37,22 @@
 }
 
 .container-details{
-    min-height: 80vh;
-    height: auto;
-    background-color: yellowgreen;
+    background-color: pink;
+    height: 90%;
+
     display: flex;
     justify-content: space-between;
     padding: 1rem 2rem;
 }
 
 .image{
-    display: grid;
-    grid-template-columns: 100%;
-    grid-template-rows: 70% 20% 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-    background-color: yellow;
-
-    min-height: 100vh;
-    height: auto;
+    height: 90%;
     width: 40%;
+    border: dashed .6rem rgb(0, 131, 98);
 }
 
 .image img{
@@ -52,7 +64,72 @@
 
 
 .info-about{
-    height: 100vh;
+    height: 90%;
     width: 50%;
-    background-color: pink;
+}
+
+.info-about p{
+    font-size: 1.2em;
+    margin: 1rem 0;
+    text-align: justify;
+    line-height: 1.2em;
+}
+
+.title-social-media{
+    font-family: 'Smooch Sans', sans-serif; 
+    font-size: 2em;
+    letter-spacing: 5px;
+    text-align: start;
+    margin: 1rem 0;
+}
+
+.social-media{
+    display: flex;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+.social-media .name-social-media{
+    padding-left: .4rem;
+}
+
+.button-social-media{
+    width: 25px;
+    height: 25px;
+
+    display: flex;
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.button-social-media.instagram{
+    background-image: url(../../public/images/instagram.png);
+}
+
+.button-social-media.spotify{
+    background-image: url(../../public/images/spotify.png);
+}
+
+.button-social-media.youtube{
+    background-image: url(../../public/images/youtube.png);
+}
+
+.button-social-media.referencia{
+    align-items: center;
+}
+
+.button-social-media a{
+    width: 100%;
+    height: 100%;
+    z-index: 111;
+    color: black;
+}
+
+.group-buttons-social-media{
+    display: flex;
+    flex-wrap: wrap;
 }

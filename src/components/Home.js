@@ -10,8 +10,7 @@ function Home() {
   const navigate = useNavigate();
 
   return (
-    <main>
-
+    <main className='container-home'>
       <h1>brasil</h1>
       <section className='container-grid'>
           {data.map((artist, index) => (
