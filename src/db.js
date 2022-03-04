@@ -1,15 +1,31 @@
 export const data = [
     {
         "name": "Tasha & Tracie",
-        "spotify_link": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT?si=BngPzWshT1irP5QNfuIojw",
         "container-name": "tasha-tracie",
-        "image": "images/tasha-tracie.webp"
+        "image": "images/tasha-tracie.webp",
+        "text": "Aos 26 anos, as irmãs gêmeas Tasha e Tracie Okereke estão despontando no rap nacional e deixando sua marca na cena.  As cantoras são as responsáveis pela criação do movimento “Expensive Shit” – nome homônimo ao blog que mantém – que visa a valorização da autoestima e da autonomia dos jovens negros, que vivem nas periferias, por meio de conhecimento, arte, moda e informação.",
+        "socialMedia": {
+            "instagram": [
+                {"name": "Tasha Okereke", "user": "https://www.instagram.com/tashaokereke/?hl=en"}, 
+                {"name": "Tracie Okereke", "user": "https://www.instagram.com/tracieokereke/?hl=en"}
+            ],
+            "youtube": "https://www.youtube.com/channel/UCaqFH2lGTICD9iWi8NCdbBw",
+            "spotify": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT?si=BngPzWshT1irP5QNfuIojw"
+        },
+        "referencias": ["https://portalpopline.com.br/quem-e-tasha-tracie-irmas-gemeas-revelacao-rap-nacional/"]
     },
 
     {
         "name": "Baco Exu do Blues",
-        "spotify_link": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf?si=jKsb7UPJSESqiUaLdpb-oA",
         "container-name": "baco-exu-blues",
+        "image": "images/baco-exu-blues.jpg",
+        "text": "Diogo Moncorvo, real nome de Baco Exu do Blues, começou a ganhar destaque pela faixa ‘Suícido’ em parceria com o rapper Diomedes Chinaski e no ano seguinte, em 2017, foi premiado como o artista revelação pelo ‘Prêmio Multishow de Música Brasileira’ e recentemente lançou seu novo álbum ‘Quantas vezes você já foi amado’.",
+        "socialMedia": {
+            "instagram": [{"name": "Baco Exu do Blues", "user": "https://www.instagram.com/accounts/login/?next=/exudoblues/"}],
+            "youtube": "https://www.youtube.com/channel/UC__z2DsFoNDdWx1vRne7PSg",
+            "spotify": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf?si=jKsb7UPJSESqiUaLdpb-oA"
+        },
+        "referencias": ["https://portalrapmais.com/baco-exu-do-blues-e-destaque-da-trace-trends-e-fala-sobre-novo-album/"]
     },
 
     {
