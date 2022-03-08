@@ -23,6 +23,7 @@ h1{
     "iza pitty pitty o-terno" 50vh
     "iza juliano-holanda tim-maia pabllo-vittar" 30vh
     "iza nelson-goncalves tim-maia pabllo-vittar" 40vh
+    "iza nelson-goncalves cpm22 pabllo-vittar" 40vh
     / 30% 20% 20% 20%;
 
     justify-content: center;
@@ -54,7 +55,7 @@ h1{
 .mc-tha{
     grid-area: mc-tha;
     background-color: olive;
-    background-image: url(../../public/images/mc-tha-2.jpg);
+    background-image: url(../../public/images/mc-tha.jpg);
 }
 
 .gloria-groove{
@@ -84,7 +85,7 @@ h1{
 .charlie-brown-jr{
     grid-area: charlie-brown-jr;
     background-color: burlywood;
-    background-image: url(../../public/images/charlie-brown-jr-1.png);
+    background-image: url(../../public/images/charlie-brown-jr.png);
 }
 
 .pitty{
@@ -99,9 +100,9 @@ h1{
     background-image: url(../../public/images/o-terno.jpg);
 }
 
-.cpm22{
+.cpm-22{
     grid-area: cpm22;
-    background-color: red;
+    background-color: yellowgreen;
     background-image: url(../../public/images/cpm-22.jpg);
 }
 
