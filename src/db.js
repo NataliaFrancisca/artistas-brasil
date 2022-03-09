@@ -68,7 +68,7 @@ export const data = [
     },
 
     {
-        "name": "Baiana System",
+        "name": "BaianaSystem",
         "container-name": "baiana-system",
         "image": "images/baiana-system.webp",
         "text": "O BaianaSystem é um projeto musical formado em 2009 com o objetivo de encontrar novas possibilidades sonoras para a guitarra baiana, instrumento criado em Salvador – Bahia nos anos 1940 e que foi responsável pela criação do trio elétrico. O nome vem da junção de “guitarra Baiana” com “sound system“, que são sistemas de som criados e popularizados na Jamaica.",
