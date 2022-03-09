@@ -131,3 +131,29 @@ hr{
     display: flex;
     flex-wrap: wrap;
 }
+
+@media only screen and (max-width: 900px) {
+    .container-artist{
+        min-height: 100%;
+        height: auto;
+        flex-direction: column;
+        margin: 2rem 0;
+    }
+
+    .image{
+        width: 90%;
+    }
+
+    .info-about{
+        width: 90%;
+        height: 100%;
+    }
+
+    .group-buttons-social-media{
+        flex-direction: column;
+    }
+
+    .button-social-media{
+        margin: 0.5rem 0;
+    }
+}
