@@ -39,6 +39,7 @@ https://brazilian-music.vercel.app/
  - [Nelson Gonçavles](https://i.scdn.co/image/ab67616d0000b2737ee095666b7eed5235ae8faa)
  - [Iza](https://i.scdn.co/image/ab6761610000e5eb796a8c0d4e0b69216a1be578)
  - [Tim Maia](https://lite-images-i.scdn.co/image/ab67616d0000b27360e99c09e312cf4181a2c8b8)
+
 Icones
 - [FlatIcon - instagram](https://www.flaticon.com/br/icones-gratis/instagram)
 - [FlatIcon - spotify](https://www.flaticon.com/br/icones-gratis/spotify)
