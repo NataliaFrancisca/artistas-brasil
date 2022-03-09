@@ -10,7 +10,7 @@ também foi feito para poder treinar um pouco mais sobre **CSS Grid** e rotas no
 
 ## Demonstração
 
-https://brazilian-music.vercel.app/
+https://artistas-brasil.vercel.app/
 ## Screenshots
 
 ![App Screenshot](https://github.com/NataliaFrancisca/teste/blob/main/brazilian-music.png)
