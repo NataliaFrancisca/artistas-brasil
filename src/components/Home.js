@@ -15,10 +15,13 @@ function Home() {
       <section className='container-grid'>
           {data.map((artist, index) => (
               <div 
-                  key={index}
-                  className={`${artist['container-name']} image-card`} 
-                  onClick={() => navigate(`/${artist['container-name']}`)}
-              />
+                key={index}
+                className={`${artist['container-name']} image-card`} 
+                style={{gridArea: `${artist['container-name']}`}}
+                onClick={() => navigate(`/${artist['container-name']}`)}
+              >
+                <img src={artist.image} />
+              </div>
           ))}
       </section>
     </main>
