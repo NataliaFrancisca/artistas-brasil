@@ -11,7 +11,7 @@ function Home() {
 
   return (
     <main className='container-home'>
-      <h1>brasil</h1>
+      <h1 className='title-container-home'>brasil</h1>
       <section className='container-grid'>
           {data.map((artist, index) => (
               <div 
