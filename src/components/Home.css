@@ -4,11 +4,12 @@
 }
 
 h1{
-    font-size: 2em;
+    font-size: 2.5em;
     text-align: center;
     padding: 1rem 0;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 5px;
+    font-weight: 800;
 }
 
 .container-grid{
