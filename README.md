@@ -1,70 +1,46 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🎶🇧🇷 Brasil - artistas
 
-## Available Scripts
+esse projeto tem como proprosito mostrar um pouco mais sobre alguns artistas brasileiros que eu gosto de ouvir.
 
-In the project directory, you can run:
+também foi feito para poder treinar um pouco mais sobre **CSS Grid** e rotas no React.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Demonstração
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://brazilian-music.vercel.app/
+## Screenshots
 
-### `npm run build`
+![App Screenshot](https://raw.githubusercontent.com/NataliaFrancisca/teste/main/brazilian-music.png?token=GHSAT0AAAAAABNQKXNADU6MKL3X7BQAOABKYRIXBWQ)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![App Screenshot](https://raw.githubusercontent.com/NataliaFrancisca/teste/main/brazilian-music-artist.png?token=GHSAT0AAAAAABNQKXNAFGUA5J44TUQPEO3IYRIXDRQ)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![App Screenshot](https://raw.githubusercontent.com/NataliaFrancisca/teste/main/brazilian-music-artist-responsive.png?token=GHSAT0AAAAAABNQKXNBTS5V4PKGXUPFD3W2YRIXIFQ)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Referência
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ Images
+ - [Tasha e Tracie](https://uploads.metropoles.com/wp-content/uploads/2021/09/28101403/rsz_dsc_6070.jpg)
+ - [Baco Exu do Blues](https://i.scdn.co/image/ab67616d0000b2739ba77e3ca38205c4dbfc5e8b)
+ - [Mateus Aleluia](https://i.scdn.co/image/ab6761610000e5eb70888163225639d57b8e795f)
+ - [Mc Tha](https://i.scdn.co/image/ab67616d0000b2730c28ecd778baec8e4f293314)
+ - [Gloria Groove](https://i.scdn.co/image/ab67616d0000b2731eb78f9f52e7ae1cf3282b42)
+ - [BaianaSystem](https://i.scdn.co/image/ab6761610000e5ebbcac174b56220e53c9baad56)
+ - [Racionais MC's](https://i.scdn.co/image/ab6761610000e5eb43a0d1ae0af71095fcb26726)
+ - [Charlie Brown Jr.](https://lite-images-i.scdn.co/image/ab67616d0000b27360619292aee0b76c06e30a86)
+ - [Pitty](https://i.scdn.co/image/ab6761610000e5ebcbb3bf7e1a99ee298b92d90c)
+ - [O Terno](https://i.scdn.co/image/ab6761610000e5eb38fb1dfbcae1006ba225b4c3)
+ - [CPM 22](https://i.scdn.co/image/ab6761610000e5ebf9a2f6d4c28847811ff1ca12)
+ - [Pabllo Vittar](https://i.scdn.co/image/ab67616d0000b2734be82ed9d62777104d2b0e1c)
+ - [Juliano Holanda](https://i.scdn.co/image/ab6761610000e5eb309b0c016f23e13d8a175050)
+ - [Nelson Gonçavles](https://i.scdn.co/image/ab67616d0000b2737ee095666b7eed5235ae8faa)
+ - [Iza](https://i.scdn.co/image/ab6761610000e5eb796a8c0d4e0b69216a1be578)
+ - [Tim Maia](https://lite-images-i.scdn.co/image/ab67616d0000b27360e99c09e312cf4181a2c8b8)
+Icones
+- [FlatIcon - instagram](https://www.flaticon.com/br/icones-gratis/instagram)
+- [FlatIcon - spotify](https://www.flaticon.com/br/icones-gratis/spotify)
+- [FlatIcon - youtube](https://www.flaticon.com/br/icones-gratis/youtube)
+- [FlatIcon - referencia](https://www.flaticon.com/br/icones-gratis/ligacao)
