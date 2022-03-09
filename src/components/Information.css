@@ -116,8 +116,8 @@ hr{
     background-image: url(../../public/images/youtube.png);
 }
 
-.button-social-media.referencia{
-    align-items: center;
+.button-social-media.referência{
+    background-image: url(../../public/images/referencia.png);
 }
 
 .button-social-media a{
@@ -155,5 +155,7 @@ hr{
 
     .button-social-media{
         margin: 0.5rem 0;
+        width: 40px;
+        height: 40px;
     }
 }

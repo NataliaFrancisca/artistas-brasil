@@ -21,9 +21,9 @@ const Information = ({state}) => {
                     <p>{text}</p>
 
                     <iframe 
-                    src={`https://open.spotify.com/embed/artist/${codeSpotifyArtist}?utm_source=generator&theme=0`}
-                    width="100%" height="80" frameBorder="0" allowfullscreen="" 
-                    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" />
+                        src={`https://open.spotify.com/embed/artist/${codeSpotifyArtist}?utm_source=generator&theme=0`}
+                        width="100%" height="80" frameBorder="0" allowfullscreen="" 
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" />
               
                     <hr />
                     
@@ -41,7 +41,7 @@ const Information = ({state}) => {
 
                         <Button socialMedia={'Youtube'} url={youtube}></Button>
                         <Button socialMedia={'Spotify'} url={spotify}></Button>
-                        <Button socialMedia={'Referências'} url={referencias} icon={'articles'}></Button>
+                        <Button socialMedia={'Referência'} url={referencias}></Button>
                     </div>
                 </section>
         </main>
