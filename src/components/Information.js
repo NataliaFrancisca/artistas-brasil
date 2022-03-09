@@ -6,8 +6,8 @@ import Button from "./Button";
 
 const Information = ({state}) => {
  
-    const {name, image, text, socialMedia, referencias} = state;
-    const {instagram, youtube, spotify} = socialMedia;
+    const { name, image, text, socialMedia, referencias } = state;
+    const { instagram, youtube, spotify } = socialMedia;
     const codeSpotifyArtist = spotify.split("/").slice(-1);
 
     return(

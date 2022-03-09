@@ -1,8 +1,7 @@
 import './App.css';
+import {Routes, Route, useNavigate} from 'react-router-dom'
 
 import {data} from "./db";
-
-import {BrowserRouter as Router, Routes, Route, useNavigate, Navigate} from 'react-router-dom'
 
 import Information from "./components/Information"
 import Home from "./components/Home"
