@@ -20,7 +20,7 @@ function Home() {
                 style={{gridArea: `${artist['container-name']}`}}
                 onClick={() => navigate(`/${artist['container-name']}`)}
               >
-                <img src={artist.image} />
+                <img src={artist.image} alt={artist.name}/>
               </div>
           ))}
       </section>
