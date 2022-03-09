@@ -13,11 +13,11 @@ também foi feito para poder treinar um pouco mais sobre **CSS Grid** e rotas no
 https://brazilian-music.vercel.app/
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/NataliaFrancisca/teste/main/brazilian-music.png?token=GHSAT0AAAAAABNQKXNADU6MKL3X7BQAOABKYRIXBWQ)
+![App Screenshot](https://github.com/NataliaFrancisca/teste/blob/main/brazilian-music.png)
 
-![App Screenshot](https://raw.githubusercontent.com/NataliaFrancisca/teste/main/brazilian-music-artist.png?token=GHSAT0AAAAAABNQKXNAFGUA5J44TUQPEO3IYRIXDRQ)
+![App Screenshot](https://github.com/NataliaFrancisca/teste/blob/main/brazilian-music-artist.png)
 
-![App Screenshot](https://raw.githubusercontent.com/NataliaFrancisca/teste/main/brazilian-music-artist-responsive.png?token=GHSAT0AAAAAABNQKXNBTS5V4PKGXUPFD3W2YRIXIFQ)
+![App Screenshot](https://github.com/NataliaFrancisca/teste/blob/main/brazilian-music-artist-responsive.png)
 
 
 ## Referência
