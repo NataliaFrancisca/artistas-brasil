@@ -125,7 +125,7 @@ export const data = [
         "image": "images/o-terno.webp",
         "text": "O Terno é um power-trio de canção-rocknroll-pop-experimental de São Paulo-SP formado por Tim Bernardes (Guitarra e Voz), Guilherme d'Almeida (Baixo) e Biel Basile (Bateria). O grupo chama atenção por sua estética autoral, mesclando com originalidade influências e timbres sessentistas e contemporâneos que dão cor às interessantes composições da banda.",
         "socialMedia": {
-            "instagram": [{"name": "Pitty", "user": "https://www.instagram.com/o_terno/"}],
+            "instagram": [{"name": "O Terno", "user": "https://www.instagram.com/o_terno/"}],
             "youtube": "https://www.youtube.com/channel/UCtnJIUHQ9jucYJRaVL3qz2g",
             "spotify": "https://open.spotify.com/artist/2TuVzZPwEPqpstqmA0qLl6?si=fxDGMWF9Tc6MUdw6q5jJvg"
         },
