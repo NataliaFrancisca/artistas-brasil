@@ -1,7 +1,7 @@
 
 # 🎶🇧🇷 Brasil - artistas
 
-esse projeto tem como proprosito mostrar um pouco mais sobre alguns artistas brasileiros que eu gosto de ouvir.
+esse projeto tem como propósito mostrar um pouco mais sobre alguns artistas brasileiros que eu gosto de ouvir.
 
 também foi feito para poder treinar um pouco mais sobre **CSS Grid** e rotas no React.
 
