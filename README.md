@@ -1,5 +1,5 @@
 
-# 🎶🇧🇷 Brasil - artistas
+# 🎶Brasil - artistas
 
 esse projeto tem como propósito mostrar um pouco mais sobre alguns artistas brasileiros que eu gosto de ouvir.
 
@@ -13,12 +13,7 @@ também foi feito para poder treinar um pouco mais sobre **CSS Grid** e rotas no
 https://artistas-brasil.vercel.app/
 ## Screenshots
 
-![App Screenshot](https://github.com/NataliaFrancisca/teste/blob/main/brazilian-music.png)
-
-![App Screenshot](https://github.com/NataliaFrancisca/teste/blob/main/brazilian-music-artist.png)
-
-![App Screenshot](https://github.com/NataliaFrancisca/teste/blob/main/brazilian-music-artist-responsive.png)
-
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-images-6c299.appspot.com/o/project-brasil.png?alt=media&token=3eeefbfe-03b4-491f-a09b-34502703997f)
 
 ## Referência
 
