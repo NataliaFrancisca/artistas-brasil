@@ -13,7 +13,8 @@ também foi feito para poder treinar um pouco mais sobre **CSS Grid** e rotas no
 https://artistas-brasil.vercel.app/
 ## Screenshots
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-images-6c299.appspot.com/o/project-brasil.png?alt=media&token=3eeefbfe-03b4-491f-a09b-34502703997f)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-images-6c299.appspot.com/o/project-brasil.png?alt=media&token=62249287-69ec-4c80-8e72-bd0b44b52f6d)
+
 
 ## Referência
 
